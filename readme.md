@@ -1,1 +1,1 @@
-Deep learninng: gradient descent
+Deep learninng: gradient descent 
